@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "author": "twixxty",
+        "version": "1.0.0",
+        "name": "Interstellar",
+        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Expressive-Violet\/refs\/heads\/main\/expressive-violet.json"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/brightg.jpg"
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-ExtraBoldItalic.ttf",
+        "ginto_medium": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-Regular.ttf"
+    },
+    "simple_colors": {
+        "statusbar": 1577753,
+        "background_secondary": -15068403,
+        "background": -14213607,
+        "mention_highlight": 2119975216,
+        "accent": -18803,
+        "active_channel": -10731216,
+        "input_background": -12831956
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -9227217,
+        "primary_dark_200": -9015,
+        "primary_dark_360": -141114
+    },
+    "drawable_tints": {},
+    "raws": {}
+}

@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "twixxty",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Interstellar",
         "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/interstellar.json"
     },
@@ -25,8 +25,11 @@
     "colors": {
         "uikit_btn_bg_color_selector_red": -9227217,
         "primary_dark_200": -9015,
-        "primary_dark_360": -141114
+        "primary_dark_360": -141114,
+        "white_800": -14542315
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "drawable_button_grey": -14542059
+    },
     "raws": {}
 }

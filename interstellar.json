@@ -1,9 +1,9 @@
 {
     "manifest": {
         "author": "twixxty",
-        "version": "1.0.2",
+        "version": "1.0.4",
         "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/interstellar.json",
-        "name": "gargantua"
+        "name": "Interstellar"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/brightg.jpg"

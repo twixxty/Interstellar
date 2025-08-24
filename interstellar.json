@@ -1,9 +1,9 @@
 {
     "manifest": {
         "author": "twixxty",
-        "version": "1.0.1",
-        "name": "Interstellar",
-        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/interstellar.json"
+        "version": "1.0.2",
+        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/interstellar.json",
+        "name": "gargantua"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/brightg.jpg"
@@ -29,7 +29,7 @@
         "white_800": -14542315
     },
     "drawable_tints": {
-        "drawable_button_grey": -14542059
+        "drawable_button_grey": -10731216
     },
     "raws": {}
 }

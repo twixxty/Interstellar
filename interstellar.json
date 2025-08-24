@@ -3,7 +3,7 @@
         "author": "twixxty",
         "version": "1.0.0",
         "name": "Interstellar",
-        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Expressive-Violet\/refs\/heads\/main\/expressive-violet.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/interstellar.json"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/brightg.jpg"

@@ -1,8 +1,7 @@
 {
     "manifest": {
         "author": "twixxty",
-        "version": "1.0.4",
-        "updater": "",
+        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/transparellar.json",
         "name": "Interstellar (Full Transparency)"
     },
     "background": {

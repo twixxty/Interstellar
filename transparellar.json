@@ -2,11 +2,12 @@
     "manifest": {
         "author": "twixxty",
         "version": "1.0.4",
-        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/interstellar.json",
-        "name": "Interstellar"
+        "updater": "",
+        "name": "Interstellar (Full Transparency)"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/brightg.jpg"
+        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/brightg.jpg",
+        "overlay_alpha": 0
     },
     "fonts": {
         "ginto_bold": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-ExtraBoldItalic.ttf",
@@ -15,8 +16,8 @@
     },
     "simple_colors": {
         "statusbar": 1577753,
-        "background_secondary": -15068403,
-        "background": -14213607,
+        "background_secondary": 1708813,
+        "background": -1993925095,
         "mention_highlight": 2119975216,
         "accent": -5918592,
         "active_channel": -10731216,

@@ -1,13 +1,14 @@
 {
     "manifest": {
         "author": "twixxty",
-        "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/transparellar.json",
-        "name": "Interstellar (Full Transparency)",
-        "version": "1.0.0"
+        "version": "1.0.1",
+        "updater": "",
+        "name": "Interstellar (Full Transparency)"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/brightg.jpg",
-        "overlay_alpha": 0
+        "overlay_alpha": 0,
+        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/unblurred.jpg",
+        "blur_radius": 10
     },
     "fonts": {
         "ginto_bold": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-ExtraBoldItalic.ttf",

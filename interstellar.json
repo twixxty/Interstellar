@@ -1,12 +1,13 @@
 {
     "manifest": {
         "author": "twixxty",
-        "version": "1.0.5",
+        "version": "1.0.6",
         "updater": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/interstellar.json",
         "name": "Interstellar"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/brightg.jpg"
+        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Interstellar\/refs\/heads\/main\/unblurred.jpg",
+        "blur_radius": 10
     },
     "fonts": {
         "ginto_bold": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-ExtraBoldItalic.ttf",
